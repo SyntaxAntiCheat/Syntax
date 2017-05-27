@@ -1,5 +1,5 @@
 # Syntax
-A self-coded anticheat, currently in development.
+A self-coded anticheat-addition, currently in development.
 You can report bugs here: https://github.com/SyntaxAntiCheat/Syntax/issues
 
 Contact:
